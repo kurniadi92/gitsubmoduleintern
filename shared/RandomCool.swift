@@ -12,5 +12,9 @@ class RandomCool {
     func justTest() {
         
     }
+    
+    func secondMethodTest() {
+        
+    }
 }
 
