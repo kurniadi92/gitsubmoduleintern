@@ -7,11 +7,10 @@
 
 import Foundation
 
-class Internal {
+class RandomCool {
 
     func justTest() {
         
     }
-
 }
 
