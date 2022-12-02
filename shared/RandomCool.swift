@@ -20,5 +20,9 @@ class RandomCool {
     func secondMethodThree() {
         
     }
+    
+    func secondMethodFour() {
+        
+    }
 }
 
