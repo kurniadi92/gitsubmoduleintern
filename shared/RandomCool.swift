@@ -16,5 +16,9 @@ class RandomCool {
     func secondMethodTest() {
         
     }
+    
+    func secondMethodThree() {
+        
+    }
 }
 
